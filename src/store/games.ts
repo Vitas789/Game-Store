@@ -1,0 +1,58 @@
+export const store = {
+  items: [
+    {
+      id: '1',
+      name: 'Borderlands 3',
+      price: '30.00$',
+      image: 'https://images.igdb.com/igdb/image/upload/t_cover_big/co20r3.jpg',
+      genre: ['Shooter'],
+      slug: 'borderlands-3',
+      rating: '82',
+    },
+    {
+      id: '2',
+      name: 'Red Dead Redemption 2',
+      price: '50.00$',
+      image: 'https://images.igdb.com/igdb/image/upload/t_cover_big/co1q1f.jpg',
+      genre: ['Adventure', 'Role-playing (RPG)', 'Shooter'],
+      slug: 'rdr2',
+      rating: '94',
+    },
+    {
+      id: '3',
+      name: 'Forza Horizon 5',
+      price: '60.00$',
+      image: 'https://images.igdb.com/igdb/image/upload/t_cover_big/co39pr.jpg',
+      genre: ['Racing'],
+      slug: 'fh5',
+      rating: 'N/A',
+    },
+    {
+      id: '4',
+      name: 'Battlefield 2042',
+      price: '60.00$',
+      image: 'https://images.igdb.com/igdb/image/upload/t_cover_big/co38x1.jpg',
+      genre: ['Adventure', 'Shooter'],
+      slug: 'bf2042',
+      rating: 'N/A',
+    },
+    {
+      id: '5',
+      name: 'Dying Light 2',
+      price: '60.00$',
+      image: 'https://images.igdb.com/igdb/image/upload/t_cover_big/co31k4.jpg',
+      genre: ['Adventure', 'Role-playing (RPG)'],
+      slug: 'dying-light-2',
+      rating: 'N/A',
+    },
+    {
+      id: '6',
+      name: 'Rock of Ages 3',
+      price: '30.00$',
+      image: 'https://images.igdb.com/igdb/image/upload/t_cover_big/co2eqt.jpg',
+      genre: ['Indie', 'Racing', 'Strategy'],
+      slug: 'rock-of-ages-3',
+      rating: '74',
+    },
+  ]
+}
